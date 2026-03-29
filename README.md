@@ -4,7 +4,4 @@ This project is based on analyzing a movie dataset using Python. The main aim wa
 
 
 
-#Tool Used
-*Python
-*Pandas
-*Googlecollab
+
